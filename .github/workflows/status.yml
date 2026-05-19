@@ -32,6 +32,43 @@ jobs:
           path: imgs/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Icons
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.topics.icons.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
+
+      - name: Opened on user's repositories
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.followup.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_followup: yes
+
+      - name: Opened by user
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.followup.user.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_followup: yes
+          plugin_followup_sections: user
+
+      - name: Indepth analysis
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.notable.indepth.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_notable: yes
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
+
       # 提交生成的卡片到仓库
       - name: Commit cards
         run: |
