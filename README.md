@@ -1,6 +1,8 @@
 <!-- 顶部星空横幅 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:2d1b4e,70:4b2d7f,100:1a1b3a&height=240&section=header&text=Florance&fontFamily=Fira+code&fontSize=52&fontColor=e0e7ff&animation=twinkling&fontAlignY=42&stroke=8a7fff&strokeWidth=1" alt="header" />
+  <a href="https://github.com/FloranceYeh">
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:2d1b4e,70:4b2d7f,100:1a1b3a&height=240&section=header&text=Florance&fontFamily=Fira+code&fontSize=52&fontColor=e0e7ff&animation=twinkling&fontAlignY=42&stroke=8a7fff&strokeWidth=1" alt="header" />
+  </a>
 </p>
 
 <!-- 星空分隔 -->
@@ -28,7 +30,9 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,git,github,linux,windows,ubuntu,vscode&perline=6" alt="tech stack" />
+  <a href="https://github.com/FloranceYeh">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,git,github,linux,windows,ubuntu,vscode&perline=6" alt="tech stack" />
+  </a>
 </p>
 
 <br/>
@@ -41,11 +45,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FloranceYeh&theme=tokyonight&hide_border=true&background=0D1117&stroke=2d1b4e&ring=8a7fff&fire=a0d8ff&currStreakLabel=a0d8ff" alt="GitHub Streak" />
+  <a href="https://github.com/FloranceYeh">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FloranceYeh&theme=tokyonight&hide_border=true&background=0D1117&stroke=2d1b4e&ring=8a7fff&fire=a0d8ff&currStreakLabel=a0d8ff" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FloranceYeh&bg_color=0d1117&color=a0d8ff&line=8a7fff&point=e0e7ff&area=true&area_color=2d1b4e&hide_border=true&custom_title=Contribution%20Galaxy" alt="activity graph" />
+  <a href="https://github.com/FloranceYeh">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=FloranceYeh&bg_color=0d1117&color=a0d8ff&line=8a7fff&point=e0e7ff&area=true&area_color=2d1b4e&hide_border=true&custom_title=Contribution%20Galaxy" alt="activity graph" />
+  </a>
 </p>
 
 <br/>
@@ -53,5 +61,7 @@
 
 <!-- 底部星空 -->
 <p align="center">
+  </a>
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2d1b4e,50:1a1b3a,100:0d1117&height=120&section=footer&animation=twinkling" alt="footer" />
+  </a>
 </p>
