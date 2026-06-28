@@ -61,7 +61,7 @@
 
 <!-- 底部星空 -->
 <p align="center">
-  </a>
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2d1b4e,50:1a1b3a,100:0d1117&height=120&section=footer&animation=twinkling" alt="footer" />
+  <a href="https://github.com/FloranceYeh">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2d1b4e,50:1a1b3a,100:0d1117&height=120&section=footer&animation=twinkling" alt="footer" />
   </a>
 </p>
