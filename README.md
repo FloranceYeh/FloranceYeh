@@ -36,7 +36,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eta-roan-60.vercel.app/api?username=FloranceYeh&show_icons=true&include_all_commits=true&hide_border=true&xx=1114142423" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eta-roan-60.vercel.app/api?username=FloranceYeh&show_icons=true&include_all_commits=true&hide_border=true&xx=1114142423&theme=dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
