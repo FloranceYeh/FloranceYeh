@@ -40,6 +40,10 @@
 </p>
 
 <p align="center">
+  <img src="assets/metrics.plugin.isocalendar.fullyear.svg" alt="Isocalendar" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FloranceYeh&theme=tokyonight&hide_border=true&background=0D1117&stroke=2d1b4e&ring=8a7fff&fire=a0d8ff&currStreakLabel=a0d8ff" alt="GitHub Streak" />
 </p>
 
